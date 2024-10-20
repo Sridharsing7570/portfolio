@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className="flex flex-col items-center justify-center h-screen bg-gray-100 text-center p-10">
+    <section id='home' className="flex flex-col items-center justify-center h-screen bg-gray-100 text-center p-10">
       <h1 className="text-5xl font-bold mb-4">Hi, I'm Sidhu</h1>
       <p className="text-lg text-gray-700 mb-6">I'm a Web Developer specializing in React and Tailwind CSS</p>
       <img 
